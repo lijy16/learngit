@@ -5,4 +5,4 @@ Creating a new branch is quick & simple.
 =======
 Creating a new branch is quick and simple.
 >>>>>>> feature1
-Git is good.
+Git is good add nice.
